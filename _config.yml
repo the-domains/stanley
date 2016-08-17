@@ -1,0 +1,28 @@
+name: Stanley
+favicon: null
+layout_spectrum: 0.5151089588180184
+typography_spectrum: 0.40507135819643736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3701673534233123
+  lightness: 0.14968025241978467
+  saturation: 0.7143585532903671
+  rhythmicContrast: 0.8702770480886102
+purpose: []
